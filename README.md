@@ -37,6 +37,4 @@ Hi there! I’m **Korin**, a tech enthusiast passionate about building innovativ
 ---
 
 ## 📫 Let’s Connect!  
-- **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/korinlim/)  
-
-✨ Let’s create something amazing together! ✨
+- **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/korinlim/)   
