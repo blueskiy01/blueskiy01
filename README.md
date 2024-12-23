@@ -1,6 +1,6 @@
 # 👋 Welcome to Korin's GitHub!
 
-Hi there! I’m **Korin**, a tech enthusiast passionate about building innovative solutions that blend creative design, sustainability, and technology. Whether it’s designing unique products, crafting compelling stories (UI/UX), or exploring Machine Learning and AgriTech, I’m driven by curiosity and a passion for making ideas come to life.
+Hi there! I’m **Korin**, a tech enthusiast passionate about building innovative solutions that blend creative design, sustainability, and technology. I’m driven by curiosity and a passion for making ideas come to life.
 
 ## 🌟 About Me
 
@@ -28,8 +28,6 @@ Hi there! I’m **Korin**, a tech enthusiast passionate about building innovativ
 ## 💡 What I’m Working On  
 - Developing **AI-driven projects** to benefit local communities.  
 - Building sustainable **AgriTech** solutions for local and global challenges.  
-- Expanding my artisanal black garlic business and creating innovative new products.  
-
 ---
 
 ## 📫 Let’s Connect!  
