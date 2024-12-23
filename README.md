@@ -52,3 +52,4 @@ Hi there! I’m **Korin**, a tech enthusiast passionate about building innovativ
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=blueskiy01&label=Profile%20views&color=0e75b6&style=flat" alt="blueskiy01" /> </p>
+</div> 
