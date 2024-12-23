@@ -2,12 +2,10 @@
 
 Hi there! I’m **Korin**, a tech enthusiast passionate about building innovative solutions that blend creative design, sustainability, and technology. Whether it’s designing unique products, crafting compelling stories (UI/UX), or exploring Machine Learning and AgriTech, I’m driven by curiosity and a passion for making ideas come to life.
 
----
-
 ## 🌟 About Me
 
 ### 🛠️ Developer  
--  During my tenure as a **System Developer**, my team mates and I developed the **ÅlexGPT**, a legislative chatbot for the Ålands landskapsregeringen that makes legal information more accessible on Åland by providing context-aware answers to questions specific to local laws and regulations.  
+-  During my tenure as a **System Developer**, my team mates and I developed the **ÅlexGPT**, a legislative chatbot for the Ålands landskapsregering that makes legal information more accessible on Åland by providing context-aware answers to questions specific to local laws and regulations.  
 
 ### 🌱 AgriTech Enthusiast  
 - Exploring **AI-driven solutions** for sustainable B2C transactions and crop production.   
