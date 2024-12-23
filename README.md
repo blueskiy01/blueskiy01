@@ -7,17 +7,16 @@ Hi there! I’m **Korin**, a tech enthusiast passionate about building innovativ
 ## 🌟 About Me
 
 ### 🛠️ Developer  
-- Currently a **System Developer** at Ålands landskapsregeringen.  
-- Collaborated with my team to develop **ÅlexGPT**, a legislative chatbot that makes legal information more accessible on Åland by providing context-aware answers to questions specific to local laws and regulations.  
+- **System Developer** at Ålands landskapsregeringen.  
+- Developed with my team mates the **ÅlexGPT**, a legislative chatbot that makes legal information more accessible on Åland by providing context-aware answers to questions specific to local laws and regulations.  
 
 ### 🌱 AgriTech Enthusiast  
-- Exploring **AI-driven solutions** for sustainable B2C transactions and crop production.  
+- Exploring **AI-driven solutions** for sustainable B2C transactions and crop production.   
 - Engaged in **Robotics and Artificial Intelligence in farming and forestry**, participating in the EU CAP Network seminar in 2025.  
 
 ### 🍴 Entrepreneur  
 - Active member of **Business Lab Åland** (2024-2026).  
-- Founder of **Eclipse Black Garlic**, an artisanal black garlic business.  
-- Experimenting with **freeze-drying concepts** for unique food products.  
+- Created **Eclipse Black Garlic**, **Grovly** and **Boka**(coming soon) .   
 
 ### 🎨 Creative Designer  
 - Designing, branding, and packaging for clients and personal ventures.  
@@ -38,3 +37,18 @@ Hi there! I’m **Korin**, a tech enthusiast passionate about building innovativ
 
 ## 📫 Let’s Connect!  
 - **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/korinlim/)   
+
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=blueskiy01&theme=tokyonight) 
+
+
+<div align="center">
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
+![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=blueskiy01&label=Profile%20views&color=0e75b6&style=flat" alt="blueskiy01" /> </p>
