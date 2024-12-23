@@ -7,8 +7,7 @@ Hi there! I’m **Korin**, a tech enthusiast passionate about building innovativ
 ## 🌟 About Me
 
 ### 🛠️ Developer  
-- **System Developer** at Ålands landskapsregeringen.  
-- Developed with my team mates the **ÅlexGPT**, a legislative chatbot that makes legal information more accessible on Åland by providing context-aware answers to questions specific to local laws and regulations.  
+-  During my tenure as a **System Developer**, my team mates and I developed the **ÅlexGPT**, a legislative chatbot for the Ålands landskapsregeringen that makes legal information more accessible on Åland by providing context-aware answers to questions specific to local laws and regulations.  
 
 ### 🌱 AgriTech Enthusiast  
 - Exploring **AI-driven solutions** for sustainable B2C transactions and crop production.   
