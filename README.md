@@ -7,13 +7,8 @@ Hi there! I’m **Korin**, a tech enthusiast passionate about building innovativ
 ### 🛠️ Developer  
 -  During my tenure as a **System Developer**, my team mates and I developed the **ÅlexGPT**, a legislative chatbot for the Ålands landskapsregering that makes legal information more accessible on Åland by providing context-aware answers to questions specific to local laws and regulations.  
 
-### 🌱 AgriTech Enthusiast  
-- Exploring **AI-driven solutions** for sustainable B2C transactions and crop production.   
-- Engaged in **Robotics and Artificial Intelligence in farming and forestry**, participating in the EU CAP Network seminar in 2025.  
-
 ### 🍴 Entrepreneur  
-- Active member of **Business Lab Åland** (2024-2026).  
-- Created **Eclipse Black Garlic**, **Grovly** and **Boka**(coming soon) .   
+- Active member of **Business Lab Åland**. 
 
 ### 🎨 Creative Designer  
 - Designing, branding, and packaging for clients and personal ventures.  
